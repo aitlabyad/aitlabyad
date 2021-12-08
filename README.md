@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aitlabyad
-- 👀 I’m interested in new teck
+- 👀 I’m interested in new tech
 - 🌱 I’m currently learning AWS 
 - 📫 How to reach me ... aitlabyad.com
 
